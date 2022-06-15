@@ -1,2 +1,9 @@
-# discord_welcome_bot_banners
-Free banners for welcome discord bots (by natrixdev) 
+# Banners for discord welcome bot
+
+> ### More than 20 banners 
+
+
+> ### Free to use 
+
+
+> ### By natrixdev 
